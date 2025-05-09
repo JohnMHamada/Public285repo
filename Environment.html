@@ -12,6 +12,19 @@
 	    
 		<a-entity environment="preset:forest"></a-entity>
 
+    <a-assets>
+				
+      <a-asset-item id="scene1_gltf" src="https://raw.githubusercontent.com/JohnMHamada/Public285repo/refs/heads/main/vase/scene.gltf" ></a-asset-item>      
+      <a-asset-item id="scene2_gltf" src="https://raw.githubusercontent.com/JohnMHamada/Public285repo/refs/heads/main/soccer_ball__football/scene.gltf" ></a-asset-item>
+      <a-asset-item id="scene3_gltf" src="https://raw.githubusercontent.com/JohnMHamada/Public285repo/refs/heads/main/free_tesla_tequila/scene.gltf" ></a-asset-item>
+      
+      
+    </a-assets>
+
+    <a-gltf-model position="0 2 -10" scale="4 4 4" src="#scene1_gltf"></a-gltf-model>
+    <a-gltf-model position="3 2 -10" scale="10 10 10" src="#scene2_gltf"></a-gltf-model>
+    <a-gltf-model position="-3 0 -10" rotation="0 -90 0" scale="0.1 0.1 0.1" src="#scene3_gltf"></a-gltf-model>
+
     </a-scene>
   </body>
 </html>
