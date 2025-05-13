@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cryptodealer Gltf
+* source:	https://sketchfab.com/3d-models/cryptodealer-gltf-9a34aa8e0107468f8548dff7104f1b1f
+* author:	manutegus (https://sketchfab.com/morxxrom30)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cryptodealer Gltf" (https://sketchfab.com/3d-models/cryptodealer-gltf-9a34aa8e0107468f8548dff7104f1b1f) by manutegus (https://sketchfab.com/morxxrom30) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
